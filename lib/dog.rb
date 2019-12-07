@@ -1,4 +1,4 @@
 class Dog
-  def sit 
+  def bark 
     puts "The Dog is sitting"
 end
