@@ -3,5 +3,8 @@ class Person
     puts"Hello World!"
   end
   
+  def walk
+    puts 
+  
   
 end
